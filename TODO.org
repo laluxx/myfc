@@ -1,0 +1,24 @@
+* Colors
+#1D2B53 Editor bg
+#1C5DAC Editor line numbers bg
+#192C59 Editor line numbers fg
+#81769C Editor comment
+#FF77A8 Editor keyword
+#31ACFB Editor Numbers
+#83769B Editor scrollbar bg
+#C2C4C8 Editoe scrollbar fh
+#FEF1E9 File Manager bg
+#BE9ADF Top bar
+#754F97 Top bar dark
+#1C5DAC Top bar selected
+#000000 Console
+#FCF2EA Console text
+#FF77A8 Cursor
+
+* Specifications
+Display: 480x270 / 240x135 64 definable colours
+Graphics: Blend tables, tline3d, stencil clipping
+Audio: 64-node synth and 8-channel tracker
+Code: Lua 5.4 w/ PICO-8 compat features
+CPU: 8M Lua VM insts / second
+Cart: .p64.png (256k) / .p64 (unlimited) 
